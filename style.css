@@ -282,27 +282,27 @@ ul{
   box-shadow: inset 0px 0px 40px rgba(0,0,0,0);
 }
 .scene:nth-child(1) .movie .poster {
-  background-image: url(/1\ 1.jpg);
+  background-image: url(1\ 1.jpg);
 }
 
 .scene:nth-child(2) .movie .poster {
-  background-image: url(/2\ 1.jpg);
+  background-image: url(2\ 1.jpg);
 } 
 
 .scene:nth-child(3) .movie .poster {
-  background-image: url(/3\ 1.jpg);
+  background-image: url(3\ 1.jpg);
 }
 
 .scene:nth-child(1) .info header {
-  background-image: url(/1\ 2.png);
+  background-image: url(1\ 2.png);
 }
 
 .scene:nth-child(2) .info header {
-  background-image: url(/2\ 2.png);
+  background-image: url(2\ 2.png);
 }
 
 .scene:nth-child(3) .info header {
-  background-image: url(/3\ 2.png);
+  background-image: url(3\ 2.png);
 }
 #thirdpage{
   background-color:grey;
