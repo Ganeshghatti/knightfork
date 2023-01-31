@@ -1,0 +1,36 @@
+@keyframes box{
+    0%{
+        position: relative;
+        left: -11vw;
+        top:-1vh;
+    }
+    100%{
+        position: relative;
+        left: -6vw;
+        top:-1vh;
+    }
+}
+@keyframes shopnow{
+    0%{
+        position: relative;
+        left: 16vw;
+        top: 15.3vh;
+    }
+    100%{
+        position: relative;
+        left: 21vw;
+        top: 15.3vh;
+    }
+}
+@keyframes signin{
+    0%{
+        position: relative;
+        left: 1vw;
+        top: 23vh;
+    }
+    100%{
+        position: relative;
+        left: 6vw;
+        top: 23vh;
+    }
+}
